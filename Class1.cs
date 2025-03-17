@@ -8,7 +8,6 @@ namespace ConsoleApp4
 {
     internal class Class1
     {
-        public void Method() { }
-        public void Metoda() { }
+        public void yolo(){}
     }
 }
